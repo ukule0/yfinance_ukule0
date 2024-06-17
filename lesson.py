@@ -12,18 +12,10 @@ def main():
     df_tickers = read_csv()
     df_tickers['コード'] =  df_tickers['コード'].astype(str) + '.T'
 
-    for ticker in df_tickers['コード']:
-        st_jp = yf.Ticker(ticker)
-        price = st_jp.history('1d')
-        print(price['Close'])
-
     for it_tuple in df_tickers.itertuples(name=None):
-        str_ticker = it_tuple[1]
-        st_jp = yf.Ticker(str_ticker)
-        price = st_jp.history('1d')['Close'][0,1]
-        it_tuple[3] = price
-        print(it_tuple[1] + " " + str(it_tuple[3]))
-
+        stock = yf.Ticker(it_tuple[1])
+        price = stock.history('1d')
+        print(it_tuple[2] + " " +  str(price.iloc[0].at["Close"]))   #ハマりポイント：DF/Seriesの要素アクセス　行(iloc):連番 , 列(at):列名
 
 
 if __name__ == "__main__":
