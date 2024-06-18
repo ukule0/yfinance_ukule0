@@ -1,6 +1,22 @@
-Market,コード,銘柄名,価格
-Tokyo,2768,双日,0
-Tokyo,2267,ヤクルト,0
-Tokyo,8591,オリックス,0
-Tokyo,9434,ソフトバンク,0
-Nasdaq,CRUS,Cirrus Logic,0
+Market,コード,銘柄名,価格,証券会社
+Tokyo,2768,双日,0,SBI証券
+Tokyo,2267,ヤクルト,0,SBI証券
+Tokyo,8591,オリックス,0,SBI証券
+Tokyo,9434,ソフトバンク,0,SBI証券
+NYSE,HUBS,HubSpot Inc.,0,SBI証券
+Nasdaq,MRNA,Moderna Inc.,0,SBI証券
+Nasdaq,MSFT,Microsoft Corporation,0,SBI証券
+NYSE,NEE,"NextEra Energy, Inc.",0,SBI証券
+NYSE,ROL,"Rollins, Inc. ",0,SBI証券
+Nasdaq,ZG,"Zillow Group, Inc. ",0,SBI証券
+NYSEArca ,KXI,iShares Global Consumer Staples ETF,0,SBI証券
+NYSEArca ,VSS,Vanguard FTSE All-World ex-US Small-Cap Index Fund ETF Shares,0,SBI証券
+Nasdaq,CRUS,Cirrus Logic,0,Firstrade
+NYSE,DIS,The Walt Disney Company,0,Firstrade
+Nasdaq,DOCU,DocuSign Inc.,0,Firstrade
+Nasdaq,DXCM,DexCom Inc.,0,Firstrade
+NYSE,KO,The Coca-Cola Company,0,Firstrade
+NYSE,OKE,ONEOK Inc.,0,Firstrade
+Nasdaq,PTON,Peloton Interactive Inc.,0,Firstrade
+Nasdaq,SNPS,Synopsys Inc.,0,Firstrade
+NYSE,UTL,Unitil Corporation,0,Firstrade
