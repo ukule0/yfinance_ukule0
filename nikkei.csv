@@ -1,22 +1,22 @@
-Market,コード,銘柄名,価格,証券会社,価格:購入時,数量,購入日
-Tokyo,2768,双日,0,SBI証券,,,
-Tokyo,2267,ヤクルト,0,SBI証券,,,
-Tokyo,8591,オリックス,0,SBI証券,,,
-Tokyo,9434,ソフトバンク,0,SBI証券,,,
-NYSE,HUBS,HubSpot Inc.,0,SBI証券,,,
-Nasdaq,MRNA,Moderna Inc.,0,SBI証券,,,
-Nasdaq,MSFT,Microsoft Corporation,0,SBI証券,,,
-NYSE,NEE,"NextEra Energy, Inc.",0,SBI証券,,,
-NYSE,ROL,"Rollins, Inc. ",0,SBI証券,,,
-Nasdaq,ZG,"Zillow Group, Inc. ",0,SBI証券,,,
-NYSEArca ,KXI,iShares Global Consumer Staples ETF,0,SBI証券,,,
-NYSEArca ,VSS,Vanguard FTSE All-World ex-US Small-Cap Index Fund ETF Shares,0,SBI証券,,,
-Nasdaq,CRUS,Cirrus Logic,0,Firstrade,,,
-NYSE,DIS,The Walt Disney Company,0,Firstrade,,,
-Nasdaq,DOCU,DocuSign Inc.,0,Firstrade,,,
-Nasdaq,DXCM,DexCom Inc.,0,Firstrade,,,
-NYSE,KO,The Coca-Cola Company,0,Firstrade,,,
-NYSE,OKE,ONEOK Inc.,0,Firstrade,,,
-Nasdaq,PTON,Peloton Interactive Inc.,0,Firstrade,,,
-Nasdaq,SNPS,Synopsys Inc.,0,Firstrade,,,
-NYSE,UTL,Unitil Corporation,0,Firstrade,,,
+Market,コード,銘柄名,証券会社,取得単価,数量,現在価格,評価損益
+Tokyo,2768,双日,SBI証券,2295,160,0,0
+Tokyo,2267,ヤクルト,SBI証券,3090,600,0,0
+Tokyo,8591,オリックス,SBI証券,1505,600,0,0
+Tokyo,9434,ソフトバンク,SBI証券,1503,600,0,0
+NYSE,HUBS,HubSpot Inc.,SBI証券,174.81,28,0,0
+Nasdaq,MRNA,Moderna Inc.,SBI証券,173.21,100,0,0
+Nasdaq,MSFT,Microsoft Corporation,SBI証券,147.51,100,0,0
+NYSE,NEE,"NextEra Energy, Inc.",SBI証券,84.39,250,0,0
+NYSE,ROL,"Rollins, Inc. ",SBI証券,20.98,348,0,0
+Nasdaq,ZG,"Zillow Group, Inc. ",SBI証券,113.02,165,0,0
+NYSEArca ,KXI,iShares Global Consumer Staples ETF,SBI証券,36.87,80,0,0
+NYSEArca ,VSS,Vanguard FTSE All-World ex-US Small-Cap Index Fund ETF Shares,SBI証券,85.5,35,0,0
+Nasdaq,CRUS,Cirrus Logic,Firstrade,44.88475,200,0,0
+NYSE,DIS,The Walt Disney Company,Firstrade,132.96626,90.27328,0,0
+Nasdaq,DOCU,DocuSign Inc.,Firstrade,48.58,150,0,0
+Nasdaq,DXCM,DexCom Inc.,Firstrade,69.5475,320,0,0
+NYSE,KO,The Coca-Cola Company,Firstrade,"48.62828	","196.5299	",0,0
+NYSE,OKE,ONEOK Inc.,Firstrade,59.75684,149.93079,0,0
+Nasdaq,PTON,Peloton Interactive Inc.,Firstrade,62.70261,180,0,0
+Nasdaq,SNPS,Synopsys Inc.,Firstrade,120.37,57,0,0
+NYSE,UTL,Unitil Corporation,Firstrade,34.39756,19.17636,0,0
