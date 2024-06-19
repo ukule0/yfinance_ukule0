@@ -27,6 +27,12 @@ def to_jp_ticker_name(df):
 
     return df
 
+def fx_rates (ticker):
+    ret=  yf.Ticker(ticker).history(period="1d")
+    return ret
+
+
 
 if __name__ == "__main__":
     main()
+    print(fx_rates("USDJPY=X").iloc[0].at["Close"])
