@@ -9,13 +9,13 @@ def read_csv():
 
 
 def main():
-    print("USDJPY:" + str(get_close_value("USDJPY=X")))
+    print("USDJPY : " + str(get_close_value("USDJPY=X")))
 
     'CSVの企業の株価を取得'
     df = read_csv()
     df_tickers = to_jp_ticker_name(df)
     for it_tuple in df_tickers.itertuples(name=None):
-        print(it_tuple[3] + " " + str(get_close_value(it_tuple[2])))
+        print(it_tuple[3] + " : " + str(get_close_value(it_tuple[2])))
 
 
 def to_jp_ticker_name(df):
