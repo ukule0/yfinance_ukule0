@@ -4,7 +4,7 @@ import pandas as pd
 
 def read_csv():
     filename = 'nikkei.csv'
-    df = pd.read_csv(filename, encoding='shift-jis')
+    df = pd.read_csv(filename, encoding='utf-8')
     return df
 
 
