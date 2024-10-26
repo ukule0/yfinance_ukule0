@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe013012-b51f-4723-a7ba-ca045ef3d18e" name="Changes" comment="print文の空白を調整" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="ukule0@gmail.com &lt;ukule0@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="89606726f6e20ff418206ecc60bac4a3db3582d4" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ukule0&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ukule0/yfinance_ukule0.git&quot;,
+    &quot;accountId&quot;: &quot;d1dd563c-d9ff-40e3-b611-c8f4f725ffdf&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/lesson.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2hwBZB2Er4SumQbvY2HgTTY2BVT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.lesson.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe013012-b51f-4723-a7ba-ca045ef3d18e" name="Changes" comment="" />
+      <created>1718495313173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718495313173</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Removed unnecessary comments">
+      <option name="closed" value="true" />
+      <created>1718495855347</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718495855347</updated>
+    </task>
+    <task id="LOCAL-00002" summary="CSV からの読み取り機能追加">
+      <option name="closed" value="true" />
+      <created>1718571811087</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718571811087</updated>
+    </task>
+    <task id="LOCAL-00003" summary="CSVの初版登録[日本株のみ">
+      <option name="closed" value="true" />
+      <created>1718572001160</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718572001160</updated>
+    </task>
+    <task id="LOCAL-00004" summary=".ignore初版">
+      <option name="closed" value="true" />
+      <created>1718572149754</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718572149754</updated>
+    </task>
+    <task id="LOCAL-00005" summary=".ignore初版">
+      <option name="closed" value="true" />
+      <created>1718572180031</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718572180031</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Market==Tokyoで.T追加">
+      <option name="closed" value="true" />
+      <created>1718666148489</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718666148489</updated>
+    </task>
+    <task id="LOCAL-00007" summary="情報追加">
+      <option name="closed" value="true" />
+      <created>1718833574263</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718833574263</updated>
+    </task>
+    <task id="LOCAL-00008" summary="為替取得処理[fx_rates]を追加">
+      <option name="closed" value="true" />
+      <created>1718834272642</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718834272642</updated>
+    </task>
+    <task id="LOCAL-00009" summary="関数の構成をリファクタリング">
+      <option name="closed" value="true" />
+      <created>1719042198802</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1719042198802</updated>
+    </task>
+    <task id="LOCAL-00010" summary="print文の空白を調整">
+      <option name="closed" value="true" />
+      <created>1719042746127</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1719042746127</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="development" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Removed unnecessary comments" />
+    <MESSAGE value="Changes" />
+    <MESSAGE value="CSV からの読み取り機能追加" />
+    <MESSAGE value="CSVの初版登録[日本株のみ" />
+    <MESSAGE value=".ignore初版" />
+    <MESSAGE value="Market==Tokyoで.T追加" />
+    <MESSAGE value="情報追加" />
+    <MESSAGE value="為替取得処理[fx_rates]を追加" />
+    <MESSAGE value="関数の構成をリファクタリング" />
+    <MESSAGE value="print文の空白を調整" />
+    <option name="LAST_COMMIT_MESSAGE" value="print文の空白を調整" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+</project>
