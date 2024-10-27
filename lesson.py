@@ -9,7 +9,7 @@ def read_csv():
 
 
 def main():
-    print("USDJPY : " + str(get_close_value("USDJPY=X")))
+    print("FX[USDJPY] : " + str(get_close_value("USDJPY=X")) + "\n")
 
     'CSVの企業の株価を取得'
     df = read_csv()
